@@ -1,0 +1,40 @@
+body{
+    background-color: #e2ac7f;
+}
+
+#wrap {
+    border: 2px dashed black;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f5f5dc;
+   
+}
+h1 {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.line {
+    width: 100%;
+    height: 1px;
+    border-top: 2px dashed;
+}
+.content{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+li{
+    font-style: italic;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+.copyright{
+    text-align: center;
+    font-size: 10px;
+    font-style: sans-serif;
+}
